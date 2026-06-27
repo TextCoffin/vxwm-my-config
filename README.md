@@ -1,3 +1,4 @@
-#vxwm config
-/*my simple config xd first version 1.0*/
+# vxwm config
+/*my simple config*/
 /*has my keybinds*/
+/*1.0*/
